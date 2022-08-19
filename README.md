@@ -1,17 +1,25 @@
-# ML_Univ
-ML Univ
-
-Archive of ML University work
+Archive of Machine Learning University files
 **source data and large files not archived in github
-
-NOTE: Code for ML1030 migrated to github.com/mvmagni/magritte
 
 
 Project Submission Links:
 
   ML1000
-- <a href="ML1000/ML1000_Project_1/Project%20Submission" target="_blank">Project 1</a> 
-- <a href="https://github.com/mvmagni/ML_Univ/tree/main/ML1000/ML1000_Project_1/Project%20Submission" target="_blank">Project 2</a> 
-- <a href="https://github.com/mvmagni/ML_Univ/tree/main/ML1000/ML1000_Project_1/Project%20Submission" target="_blank">Project 3</a> 
+- <a href="ML1000/ML1000_Project_1/Project%20Submission" target="_blank">Project 1 - Heart Disease</a> 
+- <a href="ML1000/ML1000_Project_2/Project%20Submission" target="_blank">Project 2 - Movie Recommender</a> 
+- <a href="ML1000/ML1000_Project_3/Project%20Submission" target="_blank">Project 3 - Newgroup NLP Classification</a> 
 
+  ML1010 - Newsgroup NLP Classification
+- <a href="ML1010/Group-Project/Milestone 1" target="_blank">Milestone 1 - Newgroup NLP Classification</a> 
+- <a href="ML1010/Group-Project/Milestone 2/_Submission" target="_blank">Milestone 2 - Newgroup NLP Classification</a> 
+- <a href="ML1010/Group-Project/Milestone 3/_Submission" target="_blank">Milestone 3 - Newgroup NLP Classification</a> 
+- <a href="ML1010/Group-Project/Milestone 4/Submission" target="_blank">Milestone 4 - Newgroup NLP Classification</a> 
 
+  ML1020
+- <a href="ML1020/Assignment1_submission" target="_blank">Assignment 1 - Google Cloud Quicklabs</a> 
+- <a href="ML1020/Assignment2_submission" target="_blank">Assignment 2 - Nvidia, Google Cloud, Airflow, DAG</a>
+- <a href="ML1020/Main_Project/Submission" target="_blank">Project - Imagenet classification (YOLOv4)</a>
+
+  ML1030 - Pipeline development
+- <a href="ML1030/_Submission" target="_blank">Project - Pipeline</a>
+NOTE: Code for ML1030 migrated to <a href="github.com/mvmagni/magritte">github.com/mvmagni/magritte</a>
