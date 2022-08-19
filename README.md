@@ -1,5 +1,5 @@
-**Archive of Machine Learning University files\
-Note: source data and large files not archived in github
+**Archive of Machine Learning University files**\
+*Note: source data and large files not archived in github*
 
 
 
